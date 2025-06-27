@@ -1,7 +1,6 @@
 # Raspberry Pi Braille Recognition and Display System
 
 ## Overview
-This system uses a Raspberry Pi 4 Model B to capture images of text, convert them to braille patterns, and display them using servo motors. The system includes text-to-speech functionality and LCD display for user feedback.
 
 ## Hardware Components
 - Raspberry Pi 4 Model B
